@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mycah</h1>
-<h3 align="center">Graphic designer here learning to code</h3>
+<h1 align="left">Hi 👋, I'm Mycah</h1>
+<h3 align="left">Graphic designer here learning to code</h3>
 
 - 🌱 I’m currently learning **web dev and network security**
 
