@@ -2,7 +2,6 @@
 <h3 align="center">Graphic designer here learning to code</h3>
 
 - 🌱 I’m currently learning **web dev, networking systems, and cybersecurity**
-- 🌱 I'm a Tier 2 scholar of <a href="https://www.wicys.org/benefits/security-training-scholarship/" target="_blank">Women in Cybersecurity (WiCyS) Security Training Scholarship</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
