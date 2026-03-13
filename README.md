@@ -7,5 +7,4 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mycahaccad)
 
 ### 📊 GitHub Stats:
-![ ](https://github-readme-streak-stats.herokuapp.com/?user=codewithMycah&theme=buefy&hide_border=false) <br/>
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithMycah&theme=buefy&show_icons=true&hide_border=false&layout=compact)
+![ ](https://github-readme-streak-stats.herokuapp.com/?user=codewithMycah&theme=buefy&hide_border=false)
